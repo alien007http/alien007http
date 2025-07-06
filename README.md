@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
-A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..
+A passionate **Web Developer** with a focus on **frontend** and **backend development**. My journey in tech has led me to explore the exciting fields.
 
 ---
 
