@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shweta Sharma</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+A passionate developer with a focus on frontend and backend development, as well as a keen interest in cybersecurity. My journey in tech has led me to explore the exciting fields of AI and machine learning, with most of my projects centered around these technologies..
+
+---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alien007http" alt="alien007http" /></a> </p>
 
