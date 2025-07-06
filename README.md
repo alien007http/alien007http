@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alien007http&show_icons=true&locale=en&layout=compact" alt="alien007http" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alien007http&show_icons=true&locale=en" alt="alien007http" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alien007http&" alt="alien007http" /></p>
