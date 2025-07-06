@@ -8,7 +8,7 @@ A passionate **Web Developer** with a focus on **frontend** and **backend develo
 
 - 🔭 I’m currently working on [Soon..](Soon...)
 
-- 🌱 I’m currently learning **HTML, JS, Python**
+- 🌱 I’m currently learning **HTML, JS, Python,AI**
 
 # **Connect with me:**
 <p align="left">
